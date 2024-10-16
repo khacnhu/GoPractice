@@ -1,0 +1,2 @@
+this is my information for the text file
+this is another way to write information in text file
