@@ -1,1 +1,5 @@
-[{"name":"nhutran","course":"b-TECH"},{"name":"LETRANG","course":"pythongo"},{"name":"SanjiKu","course":"C#C++"}]
+[
+  { "name": "nhutran", "course": "b-TECH" },
+  { "name": "LETRANG", "course": "pythongo" },
+  { "name": "SanjiKu", "course": "C#C++" }
+]
